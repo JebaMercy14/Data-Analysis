@@ -1,0 +1,40 @@
+# Concepts
+
+## The DIKW Pyramid
+
+**Data** on its own is of little use or value. The true value of data lies not in the data itself but in its use. Data is the raw material behind **wisdom**, which is often described as the ability to make informed decisions and judgments. A common framework for understanding how data becomes wisdom is the **DIKW Pyramid**. 
+
+DIKW stands for **Data**, **Information**, **Knowledge**, and **Wisdom**. The main idea of this framework is that data (D) is converted first into information (I). Then, information (I) is converted into knowledge (K). Finally, knowledge (K) is converted into wisdom (W). The DIKW Pyramid framework applies to single and multiple pieces of data. Each step answers different questions about the initial data and adds value to it. Wisdom is the most valuable level of the DIKW Pyramid.
+
+## Unpacking the DIKW Pyramid
+
+- **Data** is a single observation or measurement with no meaning. It lacks context.
+- **Information** describes the data according to who, what, when, how much, and/or where. 
+- **Knowledge** comes from information that has accumulated over time. It's based on experience and learning. Understanding and recognizing patterns is a type of knowledge.
+- **Wisdom** informs judgments or decisions based on knowledge. It often answers questions such as Why should we do something? or What is best?
+
+## DIKW and Data-Driven Decision-Making
+
+**Data-driven decision-making** uses data (plus information and knowledge) to guide strategic decisions that align with existing goals, objectives, and initiatives. Progressing down the DIKW Pyramid enables individuals and organizations to engage in data-driven decision-making. Skipping over any level in the DIKW Pyramid is likely to lead to ill-informed decisions. Basing decisions only on intuition, personal preference, or blind hope is not data-driven decision-making.
+
+## KPIs and Dashboards
+
+**KPI** is a metric, or quantifiable measure, to help organizations track their performance on an ongoing basis. Some KPIs are common across companies and industries but most KPIs will depend on the industry and business model of the organization. Organizations often use **dashboards** to visualize KPIs and make them accessible to the entire organization.
+
+## Roles in the Data Field
+
+Different roles within the data field contribute to the data analysis process in different ways. The primary roles in the data field are the following:
+
+- **Data Engineer**: data engineers develop, test, and maintain the data architecture.
+- **Data Analyst**: data analysts use statistics to organize and analyze data, then extract and communicate insightful information to decision-makers.
+- **Data Scientist**: data scientists conduct advanced statistical analyses and tests, develop processes for modeling data, and implement algorithms and statistical models.
+- **Business Analyst**: business analysts translate data insights to help make business decisions.
+
+# Resources
+
+- What is the Data, Information, Knowledge, Wisdom (DIKW) Model?
+- THE ADVANTAGES OF DATA-DRIVEN DECISION-MAKING
+- 4 levels of analytics you need for better decision making
+- Advanced Analytics Demystified Through DIKW Pyramid
+- Keep it clean: The surprising 130-year history of handwashing
+- 1854 Broad Street cholera outbreak
