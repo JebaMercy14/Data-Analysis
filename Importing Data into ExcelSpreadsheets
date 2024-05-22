@@ -1,0 +1,19 @@
+# Concepts
+
+This lesson covered loading data, which is part of the second step of the data analytics pipeline:
+
+1. **Collecting/Storing**
+2. **Preparing/Cleaning**
+3. **Analyzing**
+4. **Visualizing**
+
+## Key Points
+
+- In this lesson, you saw how to load data from **Excel files**, **CSV files**, **text files**, using **copy & paste**, and using **drag & drop**.
+- Preparing and cleaning the data is essential for an accurate analysis. You can't compensate for poorly prepared data, so it needs to be done correctly the first time.
+- **Delimiters** are special characters that separate data into their appropriate columns. Commas, spaces, tabs, and semicolons are common delimiters, but virtually any character could be used as a delimiter.
+- **CSV**, or Comma Separated Values, files are probably the most common data file format you'll encounter. Text files are also fairly common.
+- Excel has blurred the lines between **Import** and **Open** when loading a data file and will attempt to load data files properly. If necessary, you can use one of Excel's Wizards to load data.
+- If your data file didn't load properly (all the data is in a single column), you can use **Text to Columns** to separate it as needed.
+- You can also directly change the file name extension to facilitate loading a data file (but you need to be careful when doing this).
+
