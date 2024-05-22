@@ -1,0 +1,34 @@
+Concepts
+
+Frequency Tables in Excel
+Frequency tables are a powerful tool for summarizing categorical data. In Excel, you can create frequency tables using the COUNTIF function, which has the syntax =COUNTIF(range, criteria). Here, range refers to the categorical data you’re analyzing, and criteria is the condition used to count values. This function can be defined interactively using the fx (Insert Function) tool.
+
+Guidelines for Using Different Types of Charts
+Pie Chart
+A pie chart is ideal when:
+
+You want to compare parts to the whole.
+You only have 2 or 3 pieces of categorical data to compare.
+You want to understand how categories compare to each other.
+You aren’t comparing changes over time.
+The underlying data represents 100% of the situation you are reporting; you can’t leave out any pieces of the pie!
+Column Chart
+A column chart is useful when:
+
+You want to compare different categories.
+You have 3 to 12 categories to compare.
+You want to show changes over time.
+You wish to find the largest, smallest, or most common value.
+The order of the categories isn’t necessarily important.
+Histogram Chart
+A histogram chart is beneficial when:
+
+You have continuous numerical data.
+You want to know how frequently ranges of values occur in your data.
+You have a large dataset you want to summarize quickly.
+How to Create a Chart in Excel
+To create a chart in Excel, follow these steps:
+
+Select the desired data.
+Select the Insert tab at the top of the spreadsheet.
+Select the desired chart from the Charts section.
